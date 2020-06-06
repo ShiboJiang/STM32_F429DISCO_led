@@ -20,7 +20,7 @@ global OS_SYSTEM
 # config parameter
 TARGET_FLODER = 'build_result'
 ABS_PATH = os.path.join(os.path.abspath('.'), TARGET_FLODER)
-OS_SYSTEM = 'windows'
+OS_SYSTEM = 'linux'
 
 #------------------------------------------------------------------------------
 # Name     : CreatResultFolder
